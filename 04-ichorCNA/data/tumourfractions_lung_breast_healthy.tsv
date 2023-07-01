@@ -1,0 +1,2365 @@
+sample	tumor_fraction	ploidy	gender
+EE87811	0.007051	1.702	female
+EE87811			female
+Gender:	female		female
+Tumor Fraction:	0.007051		female
+Ploidy:	1.702		female
+Subclone Fraction:			female
+EE87812	0.007848	1.837	female
+EE87812			female
+Gender:	female		female
+Tumor Fraction:	0.007848		female
+Ploidy:	1.837		female
+Subclone Fraction:			female
+EE87813	0.008638	1.739	female
+EE87813			female
+Gender:	female		female
+Tumor Fraction:	0.008638		female
+Ploidy:	1.739		female
+Subclone Fraction:			female
+EE87815	0.01258	1.909	female
+EE87815			female
+Gender:	female		female
+Tumor Fraction:	0.01258		female
+Ploidy:	1.909		female
+Subclone Fraction:			female
+EE87816	0.03155	2.09	female
+EE87816			female
+Gender:	female		female
+Tumor Fraction:	0.03155		female
+Ploidy:	2.09		female
+Subclone Fraction:			female
+EE87817	0.005341	1.724	female
+EE87817			female
+Gender:	female		female
+Tumor Fraction:	0.005341		female
+Ploidy:	1.724		female
+Subclone Fraction:			female
+EE87818	0.008273	1.619	female
+EE87818			female
+Gender:	female		female
+Tumor Fraction:	0.008273		female
+Ploidy:	1.619		female
+Subclone Fraction:			female
+EE87819	0.007954	2.193	female
+EE87819			female
+Gender:	female		female
+Tumor Fraction:	0.007954		female
+Ploidy:	2.193		female
+Subclone Fraction:			female
+EE87820	0.008536	1.58	female
+EE87820			female
+Gender:	female		female
+Tumor Fraction:	0.008536		female
+Ploidy:	1.58		female
+Subclone Fraction:			female
+EE87821	0.3369	1.734	female
+EE87821			female
+Gender:	female		female
+Tumor Fraction:	0.3369		female
+Ploidy:	1.734		female
+Subclone Fraction:			female
+EE87822	0.004467	2.094	female
+EE87822			female
+Gender:	female		female
+Tumor Fraction:	0.004467		female
+Ploidy:	2.094		female
+Subclone Fraction:			female
+EE87823	0.007509	1.874	female
+EE87823			female
+Gender:	female		female
+Tumor Fraction:	0.007509		female
+Ploidy:	1.874		female
+Subclone Fraction:			female
+EE87824	0.004688	1.633	female
+EE87824			female
+Gender:	female		female
+Tumor Fraction:	0.004688		female
+Ploidy:	1.633		female
+Subclone Fraction:			female
+EE87825	0.003139	1.719	female
+EE87825			female
+Gender:	female		female
+Tumor Fraction:	0.003139		female
+Ploidy:	1.719		female
+Subclone Fraction:			female
+EE87826	0.002356	0.9477	female
+EE87826			female
+Gender:	female		female
+Tumor Fraction:	0.002356		female
+Ploidy:	0.9477		female
+Subclone Fraction:			female
+EE87827	0.01415	1.592	female
+EE87827			female
+Gender:	female		female
+Tumor Fraction:	0.01415		female
+Ploidy:	1.592		female
+Subclone Fraction:			female
+EE87828	0.006966	1.668	female
+EE87828			female
+Gender:	female		female
+Tumor Fraction:	0.006966		female
+Ploidy:	1.668		female
+Subclone Fraction:			female
+EE87829	0.004599	1.327	female
+EE87829			female
+Gender:	female		female
+Tumor Fraction:	0.004599		female
+Ploidy:	1.327		female
+Subclone Fraction:			female
+EE87830	0.009503	1.814	female
+EE87830			female
+Gender:	female		female
+Tumor Fraction:	0.009503		female
+Ploidy:	1.814		female
+Subclone Fraction:			female
+EE87831	0.007892	1.727	female
+EE87831			female
+Gender:	female		female
+Tumor Fraction:	0.007892		female
+Ploidy:	1.727		female
+Subclone Fraction:			female
+EE87832	0.008873	1.892	female
+EE87832			female
+Gender:	female		female
+Tumor Fraction:	0.008873		female
+Ploidy:	1.892		female
+Subclone Fraction:			female
+EE87833	0.007291	1.866	female
+EE87833			female
+Gender:	female		female
+Tumor Fraction:	0.007291		female
+Ploidy:	1.866		female
+Subclone Fraction:			female
+EE87834	0.005557	1.666	female
+EE87834			female
+Gender:	female		female
+Tumor Fraction:	0.005557		female
+Ploidy:	1.666		female
+Subclone Fraction:			female
+EE87835	0.03433	1.949	female
+EE87835			female
+Gender:	female		female
+Tumor Fraction:	0.03433		female
+Ploidy:	1.949		female
+Subclone Fraction:			female
+EE87836	0.02909	1.825	female
+EE87836			female
+Gender:	female		female
+Tumor Fraction:	0.02909		female
+Ploidy:	1.825		female
+Subclone Fraction:			female
+EE87837	0.01222	2.034	female
+EE87837			female
+Gender:	female		female
+Tumor Fraction:	0.01222		female
+Ploidy:	2.034		female
+Subclone Fraction:			female
+EE87838	0.006204	1.776	female
+EE87838			female
+Gender:	female		female
+Tumor Fraction:	0.006204		female
+Ploidy:	1.776		female
+Subclone Fraction:			female
+EE87839	0.0148	1.822	female
+EE87839			female
+Gender:	female		female
+Tumor Fraction:	0.0148		female
+Ploidy:	1.822		female
+Subclone Fraction:			female
+EE87840	0.008946	1.775	female
+EE87840			female
+Gender:	female		female
+Tumor Fraction:	0.008946		female
+Ploidy:	1.775		female
+Subclone Fraction:			female
+EE87841	0.003818	1.882	female
+EE87841			female
+Gender:	female		female
+Tumor Fraction:	0.003818		female
+Ploidy:	1.882		female
+Subclone Fraction:			female
+EE87842	0.005813	1.675	female
+EE87842			female
+Gender:	female		female
+Tumor Fraction:	0.005813		female
+Ploidy:	1.675		female
+Subclone Fraction:			female
+EE87843	0.006043	1.671	female
+EE87843			female
+Gender:	female		female
+Tumor Fraction:	0.006043		female
+Ploidy:	1.671		female
+Subclone Fraction:			female
+EE87844	0.007541	1.749	female
+EE87844			female
+Gender:	female		female
+Tumor Fraction:	0.007541		female
+Ploidy:	1.749		female
+Subclone Fraction:			female
+EE87845	0.004216	1.557	female
+EE87845			female
+Gender:	female		female
+Tumor Fraction:	0.004216		female
+Ploidy:	1.557		female
+Subclone Fraction:			female
+EE87846	0.006352	1.881	female
+EE87846			female
+Gender:	female		female
+Tumor Fraction:	0.006352		female
+Ploidy:	1.881		female
+Subclone Fraction:			female
+EE87847	0.004784	1.882	female
+EE87847			female
+Gender:	female		female
+Tumor Fraction:	0.004784		female
+Ploidy:	1.882		female
+Subclone Fraction:			female
+EE87848	0.01374	2.023	female
+EE87848			female
+Gender:	female		female
+Tumor Fraction:	0.01374		female
+Ploidy:	2.023		female
+Subclone Fraction:			female
+EE87849	0.003412	1.55	female
+EE87849			female
+Gender:	female		female
+Tumor Fraction:	0.003412		female
+Ploidy:	1.55		female
+Subclone Fraction:			female
+EE87850	0.006283	1.772	female
+EE87850			female
+Gender:	female		female
+Tumor Fraction:	0.006283		female
+Ploidy:	1.772		female
+Subclone Fraction:			female
+EE87851	0.003963	1.738	female
+EE87851			female
+Gender:	female		female
+Tumor Fraction:	0.003963		female
+Ploidy:	1.738		female
+Subclone Fraction:			female
+EE87852	0.006535	1.985	female
+EE87852			female
+Gender:	female		female
+Tumor Fraction:	0.006535		female
+Ploidy:	1.985		female
+Subclone Fraction:			female
+EE87853	0.005769	1.703	female
+EE87853			female
+Gender:	female		female
+Tumor Fraction:	0.005769		female
+Ploidy:	1.703		female
+Subclone Fraction:			female
+EE87854	0.008469	1.753	female
+EE87854			female
+Gender:	female		female
+Tumor Fraction:	0.008469		female
+Ploidy:	1.753		female
+Subclone Fraction:			female
+EE87855	0.02179	1.971	female
+EE87855			female
+Gender:	female		female
+Tumor Fraction:	0.02179		female
+Ploidy:	1.971		female
+Subclone Fraction:			female
+EE87856	0.007674	2.072	female
+EE87856			female
+Gender:	female		female
+Tumor Fraction:	0.007674		female
+Ploidy:	2.072		female
+Subclone Fraction:			female
+EE87857	0.002815	1.54	female
+EE87857			female
+Gender:	female		female
+Tumor Fraction:	0.002815		female
+Ploidy:	1.54		female
+Subclone Fraction:			female
+EE87858	0.01694	2.028	female
+EE87858			female
+Gender:	female		female
+Tumor Fraction:	0.01694		female
+Ploidy:	2.028		female
+Subclone Fraction:			female
+EE87859	0.01931	1.829	female
+EE87859			female
+Gender:	female		female
+Tumor Fraction:	0.01931		female
+Ploidy:	1.829		female
+Subclone Fraction:			female
+EE87860	0.01674	1.918	female
+EE87860			female
+Gender:	female		female
+Tumor Fraction:	0.01674		female
+Ploidy:	1.918		female
+Subclone Fraction:			female
+EE87861	0.02024	1.904	female
+EE87861			female
+Gender:	female		female
+Tumor Fraction:	0.02024		female
+Ploidy:	1.904		female
+Subclone Fraction:			female
+EE87862	0.003423	1.568	female
+EE87862			female
+Gender:	female		female
+Tumor Fraction:	0.003423		female
+Ploidy:	1.568		female
+Subclone Fraction:			female
+EE87863	0.01204	1.728	female
+EE87863			female
+Gender:	female		female
+Tumor Fraction:	0.01204		female
+Ploidy:	1.728		female
+Subclone Fraction:			female
+EE87864	0	1.241	female
+EE87864			female
+Gender:	female		female
+Tumor Fraction:	0		female
+Ploidy:	1.241		female
+Subclone Fraction:			female
+EE87920	0.09292	1.974	female
+EE87920			female
+Gender:	female		female
+Tumor Fraction:	0.09292		female
+Ploidy:	1.974		female
+Subclone Fraction:			female
+EE87921	0.06555	1.82	male
+EE87921			male
+Gender:	male		male
+Tumor Fraction:	0.06555		male
+Ploidy:	1.82		male
+Subclone Fraction:			male
+EE87922	0.006109	1.988	male
+EE87922			male
+Gender:	male		male
+Tumor Fraction:	0.006109		male
+Ploidy:	1.988		male
+Subclone Fraction:			male
+EE87923	0.005999	1.823	male
+EE87923			male
+Gender:	male		male
+Tumor Fraction:	0.005999		male
+Ploidy:	1.823		male
+Subclone Fraction:			male
+EE87924	0.003989	1.841	male
+EE87924			male
+Gender:	male		male
+Tumor Fraction:	0.003989		male
+Ploidy:	1.841		male
+Subclone Fraction:			male
+EE87925	0.00766	1.79	female
+EE87925			female
+Gender:	female		female
+Tumor Fraction:	0.00766		female
+Ploidy:	1.79		female
+Subclone Fraction:			female
+EE87926	0.00811	1.856	female
+EE87926			female
+Gender:	female		female
+Tumor Fraction:	0.00811		female
+Ploidy:	1.856		female
+Subclone Fraction:			female
+EE87927	0.002187	1.623	male
+EE87927			male
+Gender:	male		male
+Tumor Fraction:	0.002187		male
+Ploidy:	1.623		male
+Subclone Fraction:			male
+EE87928	0.004994	1.964	male
+EE87928			male
+Gender:	male		male
+Tumor Fraction:	0.004994		male
+Ploidy:	1.964		male
+Subclone Fraction:			male
+EE87929	0.009404	1.817	male
+EE87929			male
+Gender:	male		male
+Tumor Fraction:	0.009404		male
+Ploidy:	1.817		male
+Subclone Fraction:			male
+EE87931	0.01065	2.012	male
+EE87931			male
+Gender:	male		male
+Tumor Fraction:	0.01065		male
+Ploidy:	2.012		male
+Subclone Fraction:			male
+EE87932	0.008184	1.88	female
+EE87932			female
+Gender:	female		female
+Tumor Fraction:	0.008184		female
+Ploidy:	1.88		female
+Subclone Fraction:			female
+EE87933	0.002683	1.545	male
+EE87933			male
+Gender:	male		male
+Tumor Fraction:	0.002683		male
+Ploidy:	1.545		male
+Subclone Fraction:			male
+EE87934	0.008075	1.862	male
+EE87934			male
+Gender:	male		male
+Tumor Fraction:	0.008075		male
+Ploidy:	1.862		male
+Subclone Fraction:			male
+EE87935	0.008915	1.932	female
+EE87935			female
+Gender:	female		female
+Tumor Fraction:	0.008915		female
+Ploidy:	1.932		female
+Subclone Fraction:			female
+EE87936	0.009617	1.66	female
+EE87936			female
+Gender:	female		female
+Tumor Fraction:	0.009617		female
+Ploidy:	1.66		female
+Subclone Fraction:			female
+EE87937	0.009477	1.893	male
+EE87937			male
+Gender:	male		male
+Tumor Fraction:	0.009477		male
+Ploidy:	1.893		male
+Subclone Fraction:			male
+EE87938	0.00742	1.909	male
+EE87938			male
+Gender:	male		male
+Tumor Fraction:	0.00742		male
+Ploidy:	1.909		male
+Subclone Fraction:			male
+EE87939	0.003285	1.623	female
+EE87939			female
+Gender:	female		female
+Tumor Fraction:	0.003285		female
+Ploidy:	1.623		female
+Subclone Fraction:			female
+EE87940	0.003704	1.973	female
+EE87940			female
+Gender:	female		female
+Tumor Fraction:	0.003704		female
+Ploidy:	1.973		female
+Subclone Fraction:			female
+EE87941	0.00223	1.103	male
+EE87941			male
+Gender:	male		male
+Tumor Fraction:	0.00223		male
+Ploidy:	1.103		male
+Subclone Fraction:			male
+EE87942	0.003202	1.675	male
+EE87942			male
+Gender:	male		male
+Tumor Fraction:	0.003202		male
+Ploidy:	1.675		male
+Subclone Fraction:			male
+EE87943	0.002317	1.027	female
+EE87943			female
+Gender:	female		female
+Tumor Fraction:	0.002317		female
+Ploidy:	1.027		female
+Subclone Fraction:			female
+EE87944	0.006743	1.717	female
+EE87944			female
+Gender:	female		female
+Tumor Fraction:	0.006743		female
+Ploidy:	1.717		female
+Subclone Fraction:			female
+EE87945	0.002694	1.604	male
+EE87945			male
+Gender:	male		male
+Tumor Fraction:	0.002694		male
+Ploidy:	1.604		male
+Subclone Fraction:			male
+EE87946	0.007281	1.564	male
+EE87946			male
+Gender:	male		male
+Tumor Fraction:	0.007281		male
+Ploidy:	1.564		male
+Subclone Fraction:			male
+EE87947	0.008576	1.658	male
+EE87947			male
+Gender:	male		male
+Tumor Fraction:	0.008576		male
+Ploidy:	1.658		male
+Subclone Fraction:			male
+EE87948	0.004336	1.824	female
+EE87948			female
+Gender:	female		female
+Tumor Fraction:	0.004336		female
+Ploidy:	1.824		female
+Subclone Fraction:			female
+EE87949	0.00554	1.686	male
+EE87949			male
+Gender:	male		male
+Tumor Fraction:	0.00554		male
+Ploidy:	1.686		male
+Subclone Fraction:			male
+EE87950	0.006103	1.874	female
+EE87950			female
+Gender:	female		female
+Tumor Fraction:	0.006103		female
+Ploidy:	1.874		female
+Subclone Fraction:			female
+EE87951	0.004487	1.578	female
+EE87951			female
+Gender:	female		female
+Tumor Fraction:	0.004487		female
+Ploidy:	1.578		female
+Subclone Fraction:			female
+EE87952	0.002385	1.468	female
+EE87952			female
+Gender:	female		female
+Tumor Fraction:	0.002385		female
+Ploidy:	1.468		female
+Subclone Fraction:			female
+EE87953	0.003291	1.455	female
+EE87953			female
+Gender:	female		female
+Tumor Fraction:	0.003291		female
+Ploidy:	1.455		female
+Subclone Fraction:			female
+EE87954	0.002146	1.138	female
+EE87954			female
+Gender:	female		female
+Tumor Fraction:	0.002146		female
+Ploidy:	1.138		female
+Subclone Fraction:			female
+EE87955	0.002118	1.193	male
+EE87955			male
+Gender:	male		male
+Tumor Fraction:	0.002118		male
+Ploidy:	1.193		male
+Subclone Fraction:			male
+EE87956	0.003625	1.977	female
+EE87956			female
+Gender:	female		female
+Tumor Fraction:	0.003625		female
+Ploidy:	1.977		female
+Subclone Fraction:			female
+EE87957	0.005422	1.548	male
+EE87957			male
+Gender:	male		male
+Tumor Fraction:	0.005422		male
+Ploidy:	1.548		male
+Subclone Fraction:			male
+EE87958	0.007808	1.873	female
+EE87958			female
+Gender:	female		female
+Tumor Fraction:	0.007808		female
+Ploidy:	1.873		female
+Subclone Fraction:			female
+EE87959	0.004523	1.68	female
+EE87959			female
+Gender:	female		female
+Tumor Fraction:	0.004523		female
+Ploidy:	1.68		female
+Subclone Fraction:			female
+EE87960	0.00371	1.602	male
+EE87960			male
+Gender:	male		male
+Tumor Fraction:	0.00371		male
+Ploidy:	1.602		male
+Subclone Fraction:			male
+EE87961	0.006417	1.772	male
+EE87961			male
+Gender:	male		male
+Tumor Fraction:	0.006417		male
+Ploidy:	1.772		male
+Subclone Fraction:			male
+EE87962	0.006275	1.634	male
+EE87962			male
+Gender:	male		male
+Tumor Fraction:	0.006275		male
+Ploidy:	1.634		male
+Subclone Fraction:			male
+EE87963	0.002672	1.582	male
+EE87963			male
+Gender:	male		male
+Tumor Fraction:	0.002672		male
+Ploidy:	1.582		male
+Subclone Fraction:			male
+EE87964	0.005615	1.574	male
+EE87964			male
+Gender:	male		male
+Tumor Fraction:	0.005615		male
+Ploidy:	1.574		male
+Subclone Fraction:			male
+EE87965	0.002416	1.57	male
+EE87965			male
+Gender:	male		male
+Tumor Fraction:	0.002416		male
+Ploidy:	1.57		male
+Subclone Fraction:			male
+EE87966	0.003289	1.193	female
+EE87966			female
+Gender:	female		female
+Tumor Fraction:	0.003289		female
+Ploidy:	1.193		female
+Subclone Fraction:			female
+EE87967	0.003053	1.437	female
+EE87967			female
+Gender:	female		female
+Tumor Fraction:	0.003053		female
+Ploidy:	1.437		female
+Subclone Fraction:			female
+EE87968	0.002749	1.123	male
+EE87968			male
+Gender:	male		male
+Tumor Fraction:	0.002749		male
+Ploidy:	1.123		male
+Subclone Fraction:			male
+EE87969	0.006295	1.843	male
+EE87969			male
+Gender:	male		male
+Tumor Fraction:	0.006295		male
+Ploidy:	1.843		male
+Subclone Fraction:			male
+EE87970	0.005033	1.615	male
+EE87970			male
+Gender:	male		male
+Tumor Fraction:	0.005033		male
+Ploidy:	1.615		male
+Subclone Fraction:			male
+EE87971	0.0106	1.631	female
+EE87971			female
+Gender:	female		female
+Tumor Fraction:	0.0106		female
+Ploidy:	1.631		female
+Subclone Fraction:			female
+EE87972	0.005436	1.567	female
+EE87972			female
+Gender:	female		female
+Tumor Fraction:	0.005436		female
+Ploidy:	1.567		female
+Subclone Fraction:			female
+EE87973	0.005445	1.485	male
+EE87973			male
+Gender:	male		male
+Tumor Fraction:	0.005445		male
+Ploidy:	1.485		male
+Subclone Fraction:			male
+EE87974	0.006694	1.538	male
+EE87974			male
+Gender:	male		male
+Tumor Fraction:	0.006694		male
+Ploidy:	1.538		male
+Subclone Fraction:			male
+EE87975	0.005068	1.392	female
+EE87975			female
+Gender:	female		female
+Tumor Fraction:	0.005068		female
+Ploidy:	1.392		female
+Subclone Fraction:			female
+EE87976	0.001988	0.9496	female
+EE87976			female
+Gender:	female		female
+Tumor Fraction:	0.001988		female
+Ploidy:	0.9496		female
+Subclone Fraction:			female
+EE87977	0.007795	1.693	female
+EE87977			female
+Gender:	female		female
+Tumor Fraction:	0.007795		female
+Ploidy:	1.693		female
+Subclone Fraction:			female
+EE87978	0.01111	1.593	male
+EE87978			male
+Gender:	male		male
+Tumor Fraction:	0.01111		male
+Ploidy:	1.593		male
+Subclone Fraction:			male
+EE87979	0.008481	1.762	male
+EE87979			male
+Gender:	male		male
+Tumor Fraction:	0.008481		male
+Ploidy:	1.762		male
+Subclone Fraction:			male
+EE87980	0.008903	1.848	female
+EE87980			female
+Gender:	female		female
+Tumor Fraction:	0.008903		female
+Ploidy:	1.848		female
+Subclone Fraction:			female
+EE87981	0.006603	1.489	female
+EE87981			female
+Gender:	female		female
+Tumor Fraction:	0.006603		female
+Ploidy:	1.489		female
+Subclone Fraction:			female
+EE87982	0.004592	1.219	female
+EE87982			female
+Gender:	female		female
+Tumor Fraction:	0.004592		female
+Ploidy:	1.219		female
+Subclone Fraction:			female
+EE87983	0.009156	1.878	male
+EE87983			male
+Gender:	male		male
+Tumor Fraction:	0.009156		male
+Ploidy:	1.878		male
+Subclone Fraction:			male
+EE87984	0.01662	1.602	female
+EE87984			female
+Gender:	female		female
+Tumor Fraction:	0.01662		female
+Ploidy:	1.602		female
+Subclone Fraction:			female
+EE87985	0.009129	1.721	female
+EE87985			female
+Gender:	female		female
+Tumor Fraction:	0.009129		female
+Ploidy:	1.721		female
+Subclone Fraction:			female
+EE87986	0.002943	1.47	male
+EE87986			male
+Gender:	male		male
+Tumor Fraction:	0.002943		male
+Ploidy:	1.47		male
+Subclone Fraction:			male
+EE87987	0.007191	1.842	female
+EE87987			female
+Gender:	female		female
+Tumor Fraction:	0.007191		female
+Ploidy:	1.842		female
+Subclone Fraction:			female
+EE87988	0	1.229	male
+EE87988			male
+Gender:	male		male
+Tumor Fraction:	0		male
+Ploidy:	1.229		male
+Subclone Fraction:			male
+EE87989	0.003525	1.476	male
+EE87989			male
+Gender:	male		male
+Tumor Fraction:	0.003525		male
+Ploidy:	1.476		male
+Subclone Fraction:			male
+EE87990	0.005685	1.922	female
+EE87990			female
+Gender:	female		female
+Tumor Fraction:	0.005685		female
+Ploidy:	1.922		female
+Subclone Fraction:			female
+EE87991	0.006526	1.84	female
+EE87991			female
+Gender:	female		female
+Tumor Fraction:	0.006526		female
+Ploidy:	1.84		female
+Subclone Fraction:			female
+EE87992	0.009634	1.785	female
+EE87992			female
+Gender:	female		female
+Tumor Fraction:	0.009634		female
+Ploidy:	1.785		female
+Subclone Fraction:			female
+EE87993	0.006868	1.73	female
+EE87993			female
+Gender:	female		female
+Tumor Fraction:	0.006868		female
+Ploidy:	1.73		female
+Subclone Fraction:			female
+EE87994	0.005154	1.573	male
+EE87994			male
+Gender:	male		male
+Tumor Fraction:	0.005154		male
+Ploidy:	1.573		male
+Subclone Fraction:			male
+EE87995	0.002591	1.858	female
+EE87995			female
+Gender:	female		female
+Tumor Fraction:	0.002591		female
+Ploidy:	1.858		female
+Subclone Fraction:			female
+EE87996	0.005401	1.538	male
+EE87996			male
+Gender:	male		male
+Tumor Fraction:	0.005401		male
+Ploidy:	1.538		male
+Subclone Fraction:			male
+EE87997	0.00499	1.667	female
+EE87997			female
+Gender:	female		female
+Tumor Fraction:	0.00499		female
+Ploidy:	1.667		female
+Subclone Fraction:			female
+EE87998	0.004886	1.414	female
+EE87998			female
+Gender:	female		female
+Tumor Fraction:	0.004886		female
+Ploidy:	1.414		female
+Subclone Fraction:			female
+EE87999	0.007523	1.744	female
+EE87999			female
+Gender:	female		female
+Tumor Fraction:	0.007523		female
+Ploidy:	1.744		female
+Subclone Fraction:			female
+EE88000	0.006368	1.733	female
+EE88000			female
+Gender:	female		female
+Tumor Fraction:	0.006368		female
+Ploidy:	1.733		female
+Subclone Fraction:			female
+EE88001	0.006914	1.746	female
+EE88001			female
+Gender:	female		female
+Tumor Fraction:	0.006914		female
+Ploidy:	1.746		female
+Subclone Fraction:			female
+EE88002	0.006254	1.414	female
+EE88002			female
+Gender:	female		female
+Tumor Fraction:	0.006254		female
+Ploidy:	1.414		female
+Subclone Fraction:			female
+EE88003	0.007615	1.685	female
+EE88003			female
+Gender:	female		female
+Tumor Fraction:	0.007615		female
+Ploidy:	1.685		female
+Subclone Fraction:			female
+EE88004	0.00685	1.625	female
+EE88004			female
+Gender:	female		female
+Tumor Fraction:	0.00685		female
+Ploidy:	1.625		female
+Subclone Fraction:			female
+EE88005	0.008922	1.469	female
+EE88005			female
+Gender:	female		female
+Tumor Fraction:	0.008922		female
+Ploidy:	1.469		female
+Subclone Fraction:			female
+EE88006	0.004642	1.348	male
+EE88006			male
+Gender:	male		male
+Tumor Fraction:	0.004642		male
+Ploidy:	1.348		male
+Subclone Fraction:			male
+EE88007	0.00383	1.713	male
+EE88007			male
+Gender:	male		male
+Tumor Fraction:	0.00383		male
+Ploidy:	1.713		male
+Subclone Fraction:			male
+EE88008	0.003436	1.751	male
+EE88008			male
+Gender:	male		male
+Tumor Fraction:	0.003436		male
+Ploidy:	1.751		male
+Subclone Fraction:			male
+EE88009	0.001829	1.543	male
+EE88009			male
+Gender:	male		male
+Tumor Fraction:	0.001829		male
+Ploidy:	1.543		male
+Subclone Fraction:			male
+EE88010	0.00886	1.778	female
+EE88010			female
+Gender:	female		female
+Tumor Fraction:	0.00886		female
+Ploidy:	1.778		female
+Subclone Fraction:			female
+EE88011	0.006347	1.603	female
+EE88011			female
+Gender:	female		female
+Tumor Fraction:	0.006347		female
+Ploidy:	1.603		female
+Subclone Fraction:			female
+EE88012	0.008125	1.674	female
+EE88012			female
+Gender:	female		female
+Tumor Fraction:	0.008125		female
+Ploidy:	1.674		female
+Subclone Fraction:			female
+EE88013	0.01033	1.612	female
+EE88013			female
+Gender:	female		female
+Tumor Fraction:	0.01033		female
+Ploidy:	1.612		female
+Subclone Fraction:			female
+EE88014	0.006939	1.445	male
+EE88014			male
+Gender:	male		male
+Tumor Fraction:	0.006939		male
+Ploidy:	1.445		male
+Subclone Fraction:			male
+EE88015	0.01014	1.841	male
+EE88015			male
+Gender:	male		male
+Tumor Fraction:	0.01014		male
+Ploidy:	1.841		male
+Subclone Fraction:			male
+EE88016	0.003414	1.527	female
+EE88016			female
+Gender:	female		female
+Tumor Fraction:	0.003414		female
+Ploidy:	1.527		female
+Subclone Fraction:			female
+EE88017	0.00596	1.759	male
+EE88017			male
+Gender:	male		male
+Tumor Fraction:	0.00596		male
+Ploidy:	1.759		male
+Subclone Fraction:			male
+EE88018	0.003068	1.173	female
+EE88018			female
+Gender:	female		female
+Tumor Fraction:	0.003068		female
+Ploidy:	1.173		female
+Subclone Fraction:			female
+EE88019	0.003531	1.429	female
+EE88019			female
+Gender:	female		female
+Tumor Fraction:	0.003531		female
+Ploidy:	1.429		female
+Subclone Fraction:			female
+EE88020	0.006456	1.639	female
+EE88020			female
+Gender:	female		female
+Tumor Fraction:	0.006456		female
+Ploidy:	1.639		female
+Subclone Fraction:			female
+EE88021	0.003219	1.175	male
+EE88021			male
+Gender:	male		male
+Tumor Fraction:	0.003219		male
+Ploidy:	1.175		male
+Subclone Fraction:			male
+EE88022	0.004257	1.572	male
+EE88022			male
+Gender:	male		male
+Tumor Fraction:	0.004257		male
+Ploidy:	1.572		male
+Subclone Fraction:			male
+EE88023	0.002242	1.13	female
+EE88023			female
+Gender:	female		female
+Tumor Fraction:	0.002242		female
+Ploidy:	1.13		female
+Subclone Fraction:			female
+EE88024	0.01609	1.785	male
+EE88024			male
+Gender:	male		male
+Tumor Fraction:	0.01609		male
+Ploidy:	1.785		male
+Subclone Fraction:			male
+EE88025	0.00565	1.388	male
+EE88025			male
+Gender:	male		male
+Tumor Fraction:	0.00565		male
+Ploidy:	1.388		male
+Subclone Fraction:			male
+EE88026	0.006978	1.669	male
+EE88026			male
+Gender:	male		male
+Tumor Fraction:	0.006978		male
+Ploidy:	1.669		male
+Subclone Fraction:			male
+EE88027	0.007766	1.729	male
+EE88027			male
+Gender:	male		male
+Tumor Fraction:	0.007766		male
+Ploidy:	1.729		male
+Subclone Fraction:			male
+EE88028	0.003107	0.7703	female
+EE88028			female
+Gender:	female		female
+Tumor Fraction:	0.003107		female
+Ploidy:	0.7703		female
+Subclone Fraction:			female
+EE88029	0.01253	1.584	male
+EE88029			male
+Gender:	male		male
+Tumor Fraction:	0.01253		male
+Ploidy:	1.584		male
+Subclone Fraction:			male
+EE88030	0.01222	1.576	male
+EE88030			male
+Gender:	male		male
+Tumor Fraction:	0.01222		male
+Ploidy:	1.576		male
+Subclone Fraction:			male
+EE88031	0.005371	1.456	female
+EE88031			female
+Gender:	female		female
+Tumor Fraction:	0.005371		female
+Ploidy:	1.456		female
+Subclone Fraction:			female
+EE88032	0.01126	1.593	male
+EE88032			male
+Gender:	male		male
+Tumor Fraction:	0.01126		male
+Ploidy:	1.593		male
+Subclone Fraction:			male
+EE88033	0.003661	1.171	female
+EE88033			female
+Gender:	female		female
+Tumor Fraction:	0.003661		female
+Ploidy:	1.171		female
+Subclone Fraction:			female
+EE88034	0.008114	1.649	female
+EE88034			female
+Gender:	female		female
+Tumor Fraction:	0.008114		female
+Ploidy:	1.649		female
+Subclone Fraction:			female
+EE88035	0.006936	1.467	male
+EE88035			male
+Gender:	male		male
+Tumor Fraction:	0.006936		male
+Ploidy:	1.467		male
+Subclone Fraction:			male
+EE88036	0.007987	1.679	male
+EE88036			male
+Gender:	male		male
+Tumor Fraction:	0.007987		male
+Ploidy:	1.679		male
+Subclone Fraction:			male
+EE88037	0.004909	1.347	female
+EE88037			female
+Gender:	female		female
+Tumor Fraction:	0.004909		female
+Ploidy:	1.347		female
+Subclone Fraction:			female
+EE88038	0.003414	1.367	female
+EE88038			female
+Gender:	female		female
+Tumor Fraction:	0.003414		female
+Ploidy:	1.367		female
+Subclone Fraction:			female
+EE88039	0.004101	1.188	female
+EE88039			female
+Gender:	female		female
+Tumor Fraction:	0.004101		female
+Ploidy:	1.188		female
+Subclone Fraction:			female
+EE88040	0.00212	1.271	male
+EE88040			male
+Gender:	male		male
+Tumor Fraction:	0.00212		male
+Ploidy:	1.271		male
+Subclone Fraction:			male
+EE88041	0.002574	0.8987	male
+EE88041			male
+Gender:	male		male
+Tumor Fraction:	0.002574		male
+Ploidy:	0.8987		male
+Subclone Fraction:			male
+EE88042	0.00589	1.092	female
+EE88042			female
+Gender:	female		female
+Tumor Fraction:	0.00589		female
+Ploidy:	1.092		female
+Subclone Fraction:			female
+EE88043	0.009542	1.316	male
+EE88043			male
+Gender:	male		male
+Tumor Fraction:	0.009542		male
+Ploidy:	1.316		male
+Subclone Fraction:			male
+EE88044	0.00263	0.9491	female
+EE88044			female
+Gender:	female		female
+Tumor Fraction:	0.00263		female
+Ploidy:	0.9491		female
+Subclone Fraction:			female
+EE88045	0.004327	1.463	female
+EE88045			female
+Gender:	female		female
+Tumor Fraction:	0.004327		female
+Ploidy:	1.463		female
+Subclone Fraction:			female
+EE88046	0.004855	1.66	female
+EE88046			female
+Gender:	female		female
+Tumor Fraction:	0.004855		female
+Ploidy:	1.66		female
+Subclone Fraction:			female
+EE88047	0.005292	1.554	male
+EE88047			male
+Gender:	male		male
+Tumor Fraction:	0.005292		male
+Ploidy:	1.554		male
+Subclone Fraction:			male
+EE88048	0.007724	1.499	female
+EE88048			female
+Gender:	female		female
+Tumor Fraction:	0.007724		female
+Ploidy:	1.499		female
+Subclone Fraction:			female
+EE88049	0.005219	1.586	male
+EE88049			male
+Gender:	male		male
+Tumor Fraction:	0.005219		male
+Ploidy:	1.586		male
+Subclone Fraction:			male
+EE88050	0.00305	1.176	female
+EE88050			female
+Gender:	female		female
+Tumor Fraction:	0.00305		female
+Ploidy:	1.176		female
+Subclone Fraction:			female
+EE88051	0.004356	1.465	female
+EE88051			female
+Gender:	female		female
+Tumor Fraction:	0.004356		female
+Ploidy:	1.465		female
+Subclone Fraction:			female
+EE88052	0.002184	0.9465	male
+EE88052			male
+Gender:	male		male
+Tumor Fraction:	0.002184		male
+Ploidy:	0.9465		male
+Subclone Fraction:			male
+EE88053	0.01087	1.801	male
+EE88053			male
+Gender:	male		male
+Tumor Fraction:	0.01087		male
+Ploidy:	1.801		male
+Subclone Fraction:			male
+EE88054	0.003482	1.627	female
+EE88054			female
+Gender:	female		female
+Tumor Fraction:	0.003482		female
+Ploidy:	1.627		female
+Subclone Fraction:			female
+EE88055	0.003858	1.658	female
+EE88055			female
+Gender:	female		female
+Tumor Fraction:	0.003858		female
+Ploidy:	1.658		female
+Subclone Fraction:			female
+EE88056	0.008441	2.027	female
+EE88056			female
+Gender:	female		female
+Tumor Fraction:	0.008441		female
+Ploidy:	2.027		female
+Subclone Fraction:			female
+EE88057	0.007095	1.303	female
+EE88057			female
+Gender:	female		female
+Tumor Fraction:	0.007095		female
+Ploidy:	1.303		female
+Subclone Fraction:			female
+EE88058	0.007315	1.458	female
+EE88058			female
+Gender:	female		female
+Tumor Fraction:	0.007315		female
+Ploidy:	1.458		female
+Subclone Fraction:			female
+EE88059	0.006833	1.659	female
+EE88059			female
+Gender:	female		female
+Tumor Fraction:	0.006833		female
+Ploidy:	1.659		female
+Subclone Fraction:			female
+EE88060	0.007956	1.709	male
+EE88060			male
+Gender:	male		male
+Tumor Fraction:	0.007956		male
+Ploidy:	1.709		male
+Subclone Fraction:			male
+EE88061	0.00295	1.997	male
+EE88061			male
+Gender:	male		male
+Tumor Fraction:	0.00295		male
+Ploidy:	1.997		male
+Subclone Fraction:			male
+EE88062	0.006103	1.571	female
+EE88062			female
+Gender:	female		female
+Tumor Fraction:	0.006103		female
+Ploidy:	1.571		female
+Subclone Fraction:			female
+EE88063	0.007922	1.626	male
+EE88063			male
+Gender:	male		male
+Tumor Fraction:	0.007922		male
+Ploidy:	1.626		male
+Subclone Fraction:			male
+EE88064	0.006586	1.455	male
+EE88064			male
+Gender:	male		male
+Tumor Fraction:	0.006586		male
+Ploidy:	1.455		male
+Subclone Fraction:			male
+EE88065	0.007239	1.42	female
+EE88065			female
+Gender:	female		female
+Tumor Fraction:	0.007239		female
+Ploidy:	1.42		female
+Subclone Fraction:			female
+EE88066	0.002013	1.141	male
+EE88066			male
+Gender:	male		male
+Tumor Fraction:	0.002013		male
+Ploidy:	1.141		male
+Subclone Fraction:			male
+EE88067	0.005726	1.692	female
+EE88067			female
+Gender:	female		female
+Tumor Fraction:	0.005726		female
+Ploidy:	1.692		female
+Subclone Fraction:			female
+EE88068	0.002704	1.512	female
+EE88068			female
+Gender:	female		female
+Tumor Fraction:	0.002704		female
+Ploidy:	1.512		female
+Subclone Fraction:			female
+EE88069	0.009781	1.812	female
+EE88069			female
+Gender:	female		female
+Tumor Fraction:	0.009781		female
+Ploidy:	1.812		female
+Subclone Fraction:			female
+EE88070	0.006945	1.489	female
+EE88070			female
+Gender:	female		female
+Tumor Fraction:	0.006945		female
+Ploidy:	1.489		female
+Subclone Fraction:			female
+EE88071	0.002493	0.8024	female
+EE88071			female
+Gender:	female		female
+Tumor Fraction:	0.002493		female
+Ploidy:	0.8024		female
+Subclone Fraction:			female
+EE88072	0.003293	0.9931	female
+EE88072			female
+Gender:	female		female
+Tumor Fraction:	0.003293		female
+Ploidy:	0.9931		female
+Subclone Fraction:			female
+EE88073	0.0059	1.502	female
+EE88073			female
+Gender:	female		female
+Tumor Fraction:	0.0059		female
+Ploidy:	1.502		female
+Subclone Fraction:			female
+EE88074	0.006799	1.575	female
+EE88074			female
+Gender:	female		female
+Tumor Fraction:	0.006799		female
+Ploidy:	1.575		female
+Subclone Fraction:			female
+EE88075	0.006831	1.406	female
+EE88075			female
+Gender:	female		female
+Tumor Fraction:	0.006831		female
+Ploidy:	1.406		female
+Subclone Fraction:			female
+EE88076	0.009982	1.831	female
+EE88076			female
+Gender:	female		female
+Tumor Fraction:	0.009982		female
+Ploidy:	1.831		female
+Subclone Fraction:			female
+EE88077	0.002053	1.345	female
+EE88077			female
+Gender:	female		female
+Tumor Fraction:	0.002053		female
+Ploidy:	1.345		female
+Subclone Fraction:			female
+EE88078	0.003536	1.205	female
+EE88078			female
+Gender:	female		female
+Tumor Fraction:	0.003536		female
+Ploidy:	1.205		female
+Subclone Fraction:			female
+EE88079	0	0.7992	male
+EE88079			male
+Gender:	male		male
+Tumor Fraction:	0		male
+Ploidy:	0.7992		male
+Subclone Fraction:			male
+EE88080	0.003928	1.715	female
+EE88080			female
+Gender:	female		female
+Tumor Fraction:	0.003928		female
+Ploidy:	1.715		female
+Subclone Fraction:			female
+EE88081	0.007233	1.639	female
+EE88081			female
+Gender:	female		female
+Tumor Fraction:	0.007233		female
+Ploidy:	1.639		female
+Subclone Fraction:			female
+EE88082	0.009829	1.735	female
+EE88082			female
+Gender:	female		female
+Tumor Fraction:	0.009829		female
+Ploidy:	1.735		female
+Subclone Fraction:			female
+EE88083	0.008092	1.779	female
+EE88083			female
+Gender:	female		female
+Tumor Fraction:	0.008092		female
+Ploidy:	1.779		female
+Subclone Fraction:			female
+EE88084	0.007301	1.433	female
+EE88084			female
+Gender:	female		female
+Tumor Fraction:	0.007301		female
+Ploidy:	1.433		female
+Subclone Fraction:			female
+EE88085	0.006367	1.486	female
+EE88085			female
+Gender:	female		female
+Tumor Fraction:	0.006367		female
+Ploidy:	1.486		female
+Subclone Fraction:			female
+EE88086	0.002516	1.147	female
+EE88086			female
+Gender:	female		female
+Tumor Fraction:	0.002516		female
+Ploidy:	1.147		female
+Subclone Fraction:			female
+EE88087	0.009317	1.919	female
+EE88087			female
+Gender:	female		female
+Tumor Fraction:	0.009317		female
+Ploidy:	1.919		female
+Subclone Fraction:			female
+EE88088	0.006784	1.592	female
+EE88088			female
+Gender:	female		female
+Tumor Fraction:	0.006784		female
+Ploidy:	1.592		female
+Subclone Fraction:			female
+EE88089	0.003439	1.442	female
+EE88089			female
+Gender:	female		female
+Tumor Fraction:	0.003439		female
+Ploidy:	1.442		female
+Subclone Fraction:			female
+EE88090	0.006212	1.521	female
+EE88090			female
+Gender:	female		female
+Tumor Fraction:	0.006212		female
+Ploidy:	1.521		female
+Subclone Fraction:			female
+EE88091	0.005025	1.386	female
+EE88091			female
+Gender:	female		female
+Tumor Fraction:	0.005025		female
+Ploidy:	1.386		female
+Subclone Fraction:			female
+EE88092	0.007485	1.656	female
+EE88092			female
+Gender:	female		female
+Tumor Fraction:	0.007485		female
+Ploidy:	1.656		female
+Subclone Fraction:			female
+EE88093	0.005611	1.755	female
+EE88093			female
+Gender:	female		female
+Tumor Fraction:	0.005611		female
+Ploidy:	1.755		female
+Subclone Fraction:			female
+EE88094	0.003242	1.804	female
+EE88094			female
+Gender:	female		female
+Tumor Fraction:	0.003242		female
+Ploidy:	1.804		female
+Subclone Fraction:			female
+EE88095	0.006998	1.803	male
+EE88095			male
+Gender:	male		male
+Tumor Fraction:	0.006998		male
+Ploidy:	1.803		male
+Subclone Fraction:			male
+EE88096	0.003157	1.5	female
+EE88096			female
+Gender:	female		female
+Tumor Fraction:	0.003157		female
+Ploidy:	1.5		female
+Subclone Fraction:			female
+EE88097	0.008362	2.04	female
+EE88097			female
+Gender:	female		female
+Tumor Fraction:	0.008362		female
+Ploidy:	2.04		female
+Subclone Fraction:			female
+EE88098	0.002805	1.081	female
+EE88098			female
+Gender:	female		female
+Tumor Fraction:	0.002805		female
+Ploidy:	1.081		female
+Subclone Fraction:			female
+EE88099	0.002626	0.6563	female
+EE88099			female
+Gender:	female		female
+Tumor Fraction:	0.002626		female
+Ploidy:	0.6563		female
+Subclone Fraction:			female
+EE88100	0.01008	1.386	female
+EE88100			female
+Gender:	female		female
+Tumor Fraction:	0.01008		female
+Ploidy:	1.386		female
+Subclone Fraction:			female
+EE88101	0.009061	1.72	male
+EE88101			male
+Gender:	male		male
+Tumor Fraction:	0.009061		male
+Ploidy:	1.72		male
+Subclone Fraction:			male
+EE88102	0.01039	1.526	female
+EE88102			female
+Gender:	female		female
+Tumor Fraction:	0.01039		female
+Ploidy:	1.526		female
+Subclone Fraction:			female
+EE88103	0.008859	1.726	female
+EE88103			female
+Gender:	female		female
+Tumor Fraction:	0.008859		female
+Ploidy:	1.726		female
+Subclone Fraction:			female
+EE88104	0.007905	1.732	female
+EE88104			female
+Gender:	female		female
+Tumor Fraction:	0.007905		female
+Ploidy:	1.732		female
+Subclone Fraction:			female
+EE88105	0.003449	0.8536	female
+EE88105			female
+Gender:	female		female
+Tumor Fraction:	0.003449		female
+Ploidy:	0.8536		female
+Subclone Fraction:			female
+EE88106	0.006683	1.79	female
+EE88106			female
+Gender:	female		female
+Tumor Fraction:	0.006683		female
+Ploidy:	1.79		female
+Subclone Fraction:			female
+EE88107	0.003141	1.02	male
+EE88107			male
+Gender:	male		male
+Tumor Fraction:	0.003141		male
+Ploidy:	1.02		male
+Subclone Fraction:			male
+EE88108	0.008823	1.86	female
+EE88108			female
+Gender:	female		female
+Tumor Fraction:	0.008823		female
+Ploidy:	1.86		female
+Subclone Fraction:			female
+EE88109	0.003107	0.9215	female
+EE88109			female
+Gender:	female		female
+Tumor Fraction:	0.003107		female
+Ploidy:	0.9215		female
+Subclone Fraction:			female
+EE88110	0.005881	1.618	female
+EE88110			female
+Gender:	female		female
+Tumor Fraction:	0.005881		female
+Ploidy:	1.618		female
+Subclone Fraction:			female
+EE88111	0.00531	1.777	male
+EE88111			male
+Gender:	male		male
+Tumor Fraction:	0.00531		male
+Ploidy:	1.777		male
+Subclone Fraction:			male
+EE88112	0.00244	1.324	male
+EE88112			male
+Gender:	male		male
+Tumor Fraction:	0.00244		male
+Ploidy:	1.324		male
+Subclone Fraction:			male
+EE88113	0.007104	1.707	female
+EE88113			female
+Gender:	female		female
+Tumor Fraction:	0.007104		female
+Ploidy:	1.707		female
+Subclone Fraction:			female
+EE88114	0.003086	1.304	female
+EE88114			female
+Gender:	female		female
+Tumor Fraction:	0.003086		female
+Ploidy:	1.304		female
+Subclone Fraction:			female
+EE88115	0.003766	1.503	female
+EE88115			female
+Gender:	female		female
+Tumor Fraction:	0.003766		female
+Ploidy:	1.503		female
+Subclone Fraction:			female
+EE88116	0.005361	1.551	male
+EE88116			male
+Gender:	male		male
+Tumor Fraction:	0.005361		male
+Ploidy:	1.551		male
+Subclone Fraction:			male
+EE88117	0.003252	1.14	female
+EE88117			female
+Gender:	female		female
+Tumor Fraction:	0.003252		female
+Ploidy:	1.14		female
+Subclone Fraction:			female
+EE88118	0.00584	1.607	female
+EE88118			female
+Gender:	female		female
+Tumor Fraction:	0.00584		female
+Ploidy:	1.607		female
+Subclone Fraction:			female
+EE88119	0.01511	1.77	female
+EE88119			female
+Gender:	female		female
+Tumor Fraction:	0.01511		female
+Ploidy:	1.77		female
+Subclone Fraction:			female
+EE88120	0.00398	1.619	female
+EE88120			female
+Gender:	female		female
+Tumor Fraction:	0.00398		female
+Ploidy:	1.619		female
+Subclone Fraction:			female
+EE88121	0.002482	1.082	female
+EE88121			female
+Gender:	female		female
+Tumor Fraction:	0.002482		female
+Ploidy:	1.082		female
+Subclone Fraction:			female
+EE88122	0.005876	1.768	male
+EE88122			male
+Gender:	male		male
+Tumor Fraction:	0.005876		male
+Ploidy:	1.768		male
+Subclone Fraction:			male
+EE88123	0.006198	1.334	female
+EE88123			female
+Gender:	female		female
+Tumor Fraction:	0.006198		female
+Ploidy:	1.334		female
+Subclone Fraction:			female
+EE88124	0.005348	1.685	female
+EE88124			female
+Gender:	female		female
+Tumor Fraction:	0.005348		female
+Ploidy:	1.685		female
+Subclone Fraction:			female
+EE88125	0.003194	1.861	male
+EE88125			male
+Gender:	male		male
+Tumor Fraction:	0.003194		male
+Ploidy:	1.861		male
+Subclone Fraction:			male
+EE88126	0	1.367	female
+EE88126			female
+Gender:	female		female
+Tumor Fraction:	0		female
+Ploidy:	1.367		female
+Subclone Fraction:			female
+EE88127	0.003256	1.47	female
+EE88127			female
+Gender:	female		female
+Tumor Fraction:	0.003256		female
+Ploidy:	1.47		female
+Subclone Fraction:			female
+EE88128	0.00597	1.823	female
+EE88128			female
+Gender:	female		female
+Tumor Fraction:	0.00597		female
+Ploidy:	1.823		female
+Subclone Fraction:			female
+EE88129	0.00442	1.667	female
+EE88129			female
+Gender:	female		female
+Tumor Fraction:	0.00442		female
+Ploidy:	1.667		female
+Subclone Fraction:			female
+EE88130	0.008061	1.744	female
+EE88130			female
+Gender:	female		female
+Tumor Fraction:	0.008061		female
+Ploidy:	1.744		female
+Subclone Fraction:			female
+EE88131	0.007813	1.748	female
+EE88131			female
+Gender:	female		female
+Tumor Fraction:	0.007813		female
+Ploidy:	1.748		female
+Subclone Fraction:			female
+EE88132	0.007412	1.797	female
+EE88132			female
+Gender:	female		female
+Tumor Fraction:	0.007412		female
+Ploidy:	1.797		female
+Subclone Fraction:			female
+EE88133	0.0094	1.927	female
+EE88133			female
+Gender:	female		female
+Tumor Fraction:	0.0094		female
+Ploidy:	1.927		female
+Subclone Fraction:			female
+EE88134	0.006419	1.826	male
+EE88134			male
+Gender:	male		male
+Tumor Fraction:	0.006419		male
+Ploidy:	1.826		male
+Subclone Fraction:			male
+EE88135	0.005589	1.778	female
+EE88135			female
+Gender:	female		female
+Tumor Fraction:	0.005589		female
+Ploidy:	1.778		female
+Subclone Fraction:			female
+EE88136	0.006915	1.928	female
+EE88136			female
+Gender:	female		female
+Tumor Fraction:	0.006915		female
+Ploidy:	1.928		female
+Subclone Fraction:			female
+EE88137	0.004159	1.655	female
+EE88137			female
+Gender:	female		female
+Tumor Fraction:	0.004159		female
+Ploidy:	1.655		female
+Subclone Fraction:			female
+EE88138	0.005336	1.582	female
+EE88138			female
+Gender:	female		female
+Tumor Fraction:	0.005336		female
+Ploidy:	1.582		female
+Subclone Fraction:			female
+EE88139	0.01118	1.952	male
+EE88139			male
+Gender:	male		male
+Tumor Fraction:	0.01118		male
+Ploidy:	1.952		male
+Subclone Fraction:			male
+EE88140	0.01116	2.093	female
+EE88140			female
+Gender:	female		female
+Tumor Fraction:	0.01116		female
+Ploidy:	2.093		female
+Subclone Fraction:			female
+EE88141	0.008901	1.645	female
+EE88141			female
+Gender:	female		female
+Tumor Fraction:	0.008901		female
+Ploidy:	1.645		female
+Subclone Fraction:			female
+EE88142	0.007494	1.721	male
+EE88142			male
+Gender:	male		male
+Tumor Fraction:	0.007494		male
+Ploidy:	1.721		male
+Subclone Fraction:			male
+EE88143	0.004345	1.67	female
+EE88143			female
+Gender:	female		female
+Tumor Fraction:	0.004345		female
+Ploidy:	1.67		female
+Subclone Fraction:			female
+EE88144	0.007343	1.751	male
+EE88144			male
+Gender:	male		male
+Tumor Fraction:	0.007343		male
+Ploidy:	1.751		male
+Subclone Fraction:			male
+EE88145	0.005689	1.841	male
+EE88145			male
+Gender:	male		male
+Tumor Fraction:	0.005689		male
+Ploidy:	1.841		male
+Subclone Fraction:			male
+EE88146	0.003289	1.302	male
+EE88146			male
+Gender:	male		male
+Tumor Fraction:	0.003289		male
+Ploidy:	1.302		male
+Subclone Fraction:			male
+EE88147	0.005673	1.95	male
+EE88147			male
+Gender:	male		male
+Tumor Fraction:	0.005673		male
+Ploidy:	1.95		male
+Subclone Fraction:			male
+EE88148	0.002759	0.995	female
+EE88148			female
+Gender:	female		female
+Tumor Fraction:	0.002759		female
+Ploidy:	0.995		female
+Subclone Fraction:			female
+EE88149	0.005175	1.803	female
+EE88149			female
+Gender:	female		female
+Tumor Fraction:	0.005175		female
+Ploidy:	1.803		female
+Subclone Fraction:			female
+EE88150	0.004926	1.495	female
+EE88150			female
+Gender:	female		female
+Tumor Fraction:	0.004926		female
+Ploidy:	1.495		female
+Subclone Fraction:			female
+EE88151	0.004306	1.641	female
+EE88151			female
+Gender:	female		female
+Tumor Fraction:	0.004306		female
+Ploidy:	1.641		female
+Subclone Fraction:			female
+EE88152	0.005917	1.435	female
+EE88152			female
+Gender:	female		female
+Tumor Fraction:	0.005917		female
+Ploidy:	1.435		female
+Subclone Fraction:			female
+EE88153	0.006675	1.822	female
+EE88153			female
+Gender:	female		female
+Tumor Fraction:	0.006675		female
+Ploidy:	1.822		female
+Subclone Fraction:			female
+EE88154	0.00284	1.545	male
+EE88154			male
+Gender:	male		male
+Tumor Fraction:	0.00284		male
+Ploidy:	1.545		male
+Subclone Fraction:			male
+EE88155	0.01168	1.746	female
+EE88155			female
+Gender:	female		female
+Tumor Fraction:	0.01168		female
+Ploidy:	1.746		female
+Subclone Fraction:			female
+EE88156	0.005097	1.422	female
+EE88156			female
+Gender:	female		female
+Tumor Fraction:	0.005097		female
+Ploidy:	1.422		female
+Subclone Fraction:			female
+EE88157	0.004247	1.76	female
+EE88157			female
+Gender:	female		female
+Tumor Fraction:	0.004247		female
+Ploidy:	1.76		female
+Subclone Fraction:			female
+EE88158	0.01075	1.67	female
+EE88158			female
+Gender:	female		female
+Tumor Fraction:	0.01075		female
+Ploidy:	1.67		female
+Subclone Fraction:			female
+EE88159	0.009234	2.089	female
+EE88159			female
+Gender:	female		female
+Tumor Fraction:	0.009234		female
+Ploidy:	2.089		female
+Subclone Fraction:			female
+EE88160	0.009826	1.797	female
+EE88160			female
+Gender:	female		female
+Tumor Fraction:	0.009826		female
+Ploidy:	1.797		female
+Subclone Fraction:			female
+EE88161	0.005999	1.893	female
+EE88161			female
+Gender:	female		female
+Tumor Fraction:	0.005999		female
+Ploidy:	1.893		female
+Subclone Fraction:			female
+EE88162	0.002312	1.847	female
+EE88162			female
+Gender:	female		female
+Tumor Fraction:	0.002312		female
+Ploidy:	1.847		female
+Subclone Fraction:			female
+EE88163	0	1.52	female
+EE88163			female
+Gender:	female		female
+Tumor Fraction:	0		female
+Ploidy:	1.52		female
+Subclone Fraction:			female
+EE88164	0.01056	1.574	female
+EE88164			female
+Gender:	female		female
+Tumor Fraction:	0.01056		female
+Ploidy:	1.574		female
+Subclone Fraction:			female
+EE88165	0.01175	1.972	female
+EE88165			female
+Gender:	female		female
+Tumor Fraction:	0.01175		female
+Ploidy:	1.972		female
+Subclone Fraction:			female
+EE88166	0.005575	2.049	female
+EE88166			female
+Gender:	female		female
+Tumor Fraction:	0.005575		female
+Ploidy:	2.049		female
+Subclone Fraction:			female
+EE88167	0.01365	1.998	female
+EE88167			female
+Gender:	female		female
+Tumor Fraction:	0.01365		female
+Ploidy:	1.998		female
+Subclone Fraction:			female
+EE88168	0.008822	1.696	female
+EE88168			female
+Gender:	female		female
+Tumor Fraction:	0.008822		female
+Ploidy:	1.696		female
+Subclone Fraction:			female
+EE88169	0.002137	1.198	female
+EE88169			female
+Gender:	female		female
+Tumor Fraction:	0.002137		female
+Ploidy:	1.198		female
+Subclone Fraction:			female
+EE88170	0.005489	1.619	female
+EE88170			female
+Gender:	female		female
+Tumor Fraction:	0.005489		female
+Ploidy:	1.619		female
+Subclone Fraction:			female
+EE88171	0.003766	1.527	female
+EE88171			female
+Gender:	female		female
+Tumor Fraction:	0.003766		female
+Ploidy:	1.527		female
+Subclone Fraction:			female
+EE88172	0.009683	1.751	female
+EE88172			female
+Gender:	female		female
+Tumor Fraction:	0.009683		female
+Ploidy:	1.751		female
+Subclone Fraction:			female
+EE88173	0.001704	1.064	female
+EE88173			female
+Gender:	female		female
+Tumor Fraction:	0.001704		female
+Ploidy:	1.064		female
+Subclone Fraction:			female
+EE88174	0.00707	1.875	female
+EE88174			female
+Gender:	female		female
+Tumor Fraction:	0.00707		female
+Ploidy:	1.875		female
+Subclone Fraction:			female
+EE88175	0.005747	1.418	female
+EE88175			female
+Gender:	female		female
+Tumor Fraction:	0.005747		female
+Ploidy:	1.418		female
+Subclone Fraction:			female
+EE88176	0.003414	1.136	female
+EE88176			female
+Gender:	female		female
+Tumor Fraction:	0.003414		female
+Ploidy:	1.136		female
+Subclone Fraction:			female
+EE88177	0.00994	1.881	female
+EE88177			female
+Gender:	female		female
+Tumor Fraction:	0.00994		female
+Ploidy:	1.881		female
+Subclone Fraction:			female
+EE88178	0.004848	1.844	female
+EE88178			female
+Gender:	female		female
+Tumor Fraction:	0.004848		female
+Ploidy:	1.844		female
+Subclone Fraction:			female
+EE88179	0.004482	1.523	female
+EE88179			female
+Gender:	female		female
+Tumor Fraction:	0.004482		female
+Ploidy:	1.523		female
+Subclone Fraction:			female
+EE88180	0.003311	1.575	female
+EE88180			female
+Gender:	female		female
+Tumor Fraction:	0.003311		female
+Ploidy:	1.575		female
+Subclone Fraction:			female
+EE88181	0.009416	1.694	female
+EE88181			female
+Gender:	female		female
+Tumor Fraction:	0.009416		female
+Ploidy:	1.694		female
+Subclone Fraction:			female
+EE88182	0.005691	1.818	female
+EE88182			female
+Gender:	female		female
+Tumor Fraction:	0.005691		female
+Ploidy:	1.818		female
+Subclone Fraction:			female
+EE88183	0.05021	1.858	female
+EE88183			female
+Gender:	female		female
+Tumor Fraction:	0.05021		female
+Ploidy:	1.858		female
+Subclone Fraction:			female
+EE88184	0.1335	1.73	female
+EE88184			female
+Gender:	female		female
+Tumor Fraction:	0.1335		female
+Ploidy:	1.73		female
+Subclone Fraction:			female
+EE88185	0.08308	1.753	female
+EE88185			female
+Gender:	female		female
+Tumor Fraction:	0.08308		female
+Ploidy:	1.753		female
+Subclone Fraction:			female
+EE88186	0.07533	1.584	female
+EE88186			female
+Gender:	female		female
+Tumor Fraction:	0.07533		female
+Ploidy:	1.584		female
+Subclone Fraction:			female
+EE88187	0.02789	1.913	female
+EE88187			female
+Gender:	female		female
+Tumor Fraction:	0.02789		female
+Ploidy:	1.913		female
+Subclone Fraction:			female
+EE88188	0.00799	2.029	female
+EE88188			female
+Gender:	female		female
+Tumor Fraction:	0.00799		female
+Ploidy:	2.029		female
+Subclone Fraction:			female
+EE88189	0.03886	2.022	female
+EE88189			female
+Gender:	female		female
+Tumor Fraction:	0.03886		female
+Ploidy:	2.022		female
+Subclone Fraction:			female
+EE88190	0.01067	1.071	female
+EE88190			female
+Gender:	female		female
+Tumor Fraction:	0.01067		female
+Ploidy:	1.071		female
+Subclone Fraction:			female
+EE88191	0.01488	1.809	female
+EE88191			female
+Gender:	female		female
+Tumor Fraction:	0.01488		female
+Ploidy:	1.809		female
+Subclone Fraction:			female
+EE88192	0.02579	1.77	female
+EE88192			female
+Gender:	female		female
+Tumor Fraction:	0.02579		female
+Ploidy:	1.77		female
+Subclone Fraction:			female
+EE88193	0.03839	1.795	male
+EE88193			male
+Gender:	male		male
+Tumor Fraction:	0.03839		male
+Ploidy:	1.795		male
+Subclone Fraction:			male
+EE88194	0.01017	1.667	male
+EE88194			male
+Gender:	male		male
+Tumor Fraction:	0.01017		male
+Ploidy:	1.667		male
+Subclone Fraction:			male
+EE88195	0.004363	1.827	female
+EE88195			female
+Gender:	female		female
+Tumor Fraction:	0.004363		female
+Ploidy:	1.827		female
+Subclone Fraction:			female
+EE88196	0.006176	1.769	male
+EE88196			male
+Gender:	male		male
+Tumor Fraction:	0.006176		male
+Ploidy:	1.769		male
+Subclone Fraction:			male
+EE88197	0.1343	1.283	male
+EE88197			male
+Gender:	male		male
+Tumor Fraction:	0.1343		male
+Ploidy:	1.283		male
+Subclone Fraction:			male
+EE88198	0.007041	2.017	female
+EE88198			female
+Gender:	female		female
+Tumor Fraction:	0.007041		female
+Ploidy:	2.017		female
+Subclone Fraction:			female
+EE88199	0.005954	1.994	female
+EE88199			female
+Gender:	female		female
+Tumor Fraction:	0.005954		female
+Ploidy:	1.994		female
+Subclone Fraction:			female
+EE88200	0.00691	1.837	male
+EE88200			male
+Gender:	male		male
+Tumor Fraction:	0.00691		male
+Ploidy:	1.837		male
+Subclone Fraction:			male
+EE88201	0.0902	1.823	male
+EE88201			male
+Gender:	male		male
+Tumor Fraction:	0.0902		male
+Ploidy:	1.823		male
+Subclone Fraction:			male
+EE88202	0.004557	1.657	male
+EE88202			male
+Gender:	male		male
+Tumor Fraction:	0.004557		male
+Ploidy:	1.657		male
+Subclone Fraction:			male
+EE88203	0.02841	1.809	male
+EE88203			male
+Gender:	male		male
+Tumor Fraction:	0.02841		male
+Ploidy:	1.809		male
+Subclone Fraction:			male
+EE88204	0.02083	1.951	male
+EE88204			male
+Gender:	male		male
+Tumor Fraction:	0.02083		male
+Ploidy:	1.951		male
+Subclone Fraction:			male
+EE88205	0.006386	1.481	female
+EE88205			female
+Gender:	female		female
+Tumor Fraction:	0.006386		female
+Ploidy:	1.481		female
+Subclone Fraction:			female
+EE88206	0.01163	1.805	male
+EE88206			male
+Gender:	male		male
+Tumor Fraction:	0.01163		male
+Ploidy:	1.805		male
+Subclone Fraction:			male
+EE88207	0.007176	1.747	male
+EE88207			male
+Gender:	male		male
+Tumor Fraction:	0.007176		male
+Ploidy:	1.747		male
+Subclone Fraction:			male
+EE88208	0.008203	1.902	male
+EE88208			male
+Gender:	male		male
+Tumor Fraction:	0.008203		male
+Ploidy:	1.902		male
+Subclone Fraction:			male
+EE88209	0.2403	1.848	male
+EE88209			male
+Gender:	male		male
+Tumor Fraction:	0.2403		male
+Ploidy:	1.848		male
+Subclone Fraction:			male
+EE88210	0.007492	1.783	female
+EE88210			female
+Gender:	female		female
+Tumor Fraction:	0.007492		female
+Ploidy:	1.783		female
+Subclone Fraction:			female
+EE88211	0.0126	1.679	female
+EE88211			female
+Gender:	female		female
+Tumor Fraction:	0.0126		female
+Ploidy:	1.679		female
+Subclone Fraction:			female
+EE88212	0.1431	1.883	male
+EE88212			male
+Gender:	male		male
+Tumor Fraction:	0.1431		male
+Ploidy:	1.883		male
+Subclone Fraction:			male
+EE88213	0.07437	1.819	female
+EE88213			female
+Gender:	female		female
+Tumor Fraction:	0.07437		female
+Ploidy:	1.819		female
+Subclone Fraction:			female
+EE88214	0.1463	1.826	female
+EE88214			female
+Gender:	female		female
+Tumor Fraction:	0.1463		female
+Ploidy:	1.826		female
+Subclone Fraction:			female
+EE88215	0.04921	1.857	female
+EE88215			female
+Gender:	female		female
+Tumor Fraction:	0.04921		female
+Ploidy:	1.857		female
+Subclone Fraction:			female
+EE88216	0.06254	1.854	female
+EE88216			female
+Gender:	female		female
+Tumor Fraction:	0.06254		female
+Ploidy:	1.854		female
+Subclone Fraction:			female
+EE88217	0.1132	1.819	male
+EE88217			male
+Gender:	male		male
+Tumor Fraction:	0.1132		male
+Ploidy:	1.819		male
+Subclone Fraction:			male
+EE88218	0.08677	1.863	male
+EE88218			male
+Gender:	male		male
+Tumor Fraction:	0.08677		male
+Ploidy:	1.863		male
+Subclone Fraction:			male
+EE88219	0.1593	1.806	male
+EE88219			male
+Gender:	male		male
+Tumor Fraction:	0.1593		male
+Ploidy:	1.806		male
+Subclone Fraction:			male
+EE88220	0.09572	1.836	male
+EE88220			male
+Gender:	male		male
+Tumor Fraction:	0.09572		male
+Ploidy:	1.836		male
+Subclone Fraction:			male
+EE88221	0.05493	2.164	female
+EE88221			female
+Gender:	female		female
+Tumor Fraction:	0.05493		female
+Ploidy:	2.164		female
+Subclone Fraction:			female
+EE88222	0.04247	2.062	female
+EE88222			female
+Gender:	female		female
+Tumor Fraction:	0.04247		female
+Ploidy:	2.062		female
+Subclone Fraction:			female
+EE88223	0.07704	2.261	female
+EE88223			female
+Gender:	female		female
+Tumor Fraction:	0.07704		female
+Ploidy:	2.261		female
+Subclone Fraction:			female
+EE88224	0.0106	1.694	female
+EE88224			female
+Gender:	female		female
+Tumor Fraction:	0.0106		female
+Ploidy:	1.694		female
+Subclone Fraction:			female
+EE88225	0.001797	1.67	male
+EE88225			male
+Gender:	male		male
+Tumor Fraction:	0.001797		male
+Ploidy:	1.67		male
+Subclone Fraction:			male
+EE88226	0.003536	1.793	male
+EE88226			male
+Gender:	male		male
+Tumor Fraction:	0.003536		male
+Ploidy:	1.793		male
+Subclone Fraction:			male
+EE88227	0.005336	1.749	male
+EE88227			male
+Gender:	male		male
+Tumor Fraction:	0.005336		male
+Ploidy:	1.749		male
+Subclone Fraction:			male
+EE88228	0.00535	1.538	male
+EE88228			male
+Gender:	male		male
+Tumor Fraction:	0.00535		male
+Ploidy:	1.538		male
+Subclone Fraction:			male
+EE88229	0.004372	1.397	female
+EE88229			female
+Gender:	female		female
+Tumor Fraction:	0.004372		female
+Ploidy:	1.397		female
+Subclone Fraction:			female
+EE88230	0.006133	1.551	female
+EE88230			female
+Gender:	female		female
+Tumor Fraction:	0.006133		female
+Ploidy:	1.551		female
+Subclone Fraction:			female
+EE88231	0.006205	1.694	female
+EE88231			female
+Gender:	female		female
+Tumor Fraction:	0.006205		female
+Ploidy:	1.694		female
+Subclone Fraction:			female
+EE88232	0.007855	1.713	female
+EE88232			female
+Gender:	female		female
+Tumor Fraction:	0.007855		female
+Ploidy:	1.713		female
+Subclone Fraction:			female
+EE88233	0.004354	1.421	male
+EE88233			male
+Gender:	male		male
+Tumor Fraction:	0.004354		male
+Ploidy:	1.421		male
+Subclone Fraction:			male
+EE88234	0.004779	1.632	male
+EE88234			male
+Gender:	male		male
+Tumor Fraction:	0.004779		male
+Ploidy:	1.632		male
+Subclone Fraction:			male
+EE88235	0.002147	1.062	male
+EE88235			male
+Gender:	male		male
+Tumor Fraction:	0.002147		male
+Ploidy:	1.062		male
+Subclone Fraction:			male
+EE88236	0.003066	1.422	male
+EE88236			male
+Gender:	male		male
+Tumor Fraction:	0.003066		male
+Ploidy:	1.422		male
+Subclone Fraction:			male
+EE88237	0.007171	1.669	female
+EE88237			female
+Gender:	female		female
+Tumor Fraction:	0.007171		female
+Ploidy:	1.669		female
+Subclone Fraction:			female
+EE88238	0.009467	1.729	female
+EE88238			female
+Gender:	female		female
+Tumor Fraction:	0.009467		female
+Ploidy:	1.729		female
+Subclone Fraction:			female
+EE88239	0.01887	1.781	female
+EE88239			female
+Gender:	female		female
+Tumor Fraction:	0.01887		female
+Ploidy:	1.781		female
+Subclone Fraction:			female
+EE88240	0.01151	1.787	female
+EE88240			female
+Gender:	female		female
+Tumor Fraction:	0.01151		female
+Ploidy:	1.787		female
+Subclone Fraction:			female
+EE88241	0.01891	1.825	female
+EE88241			female
+Gender:	female		female
+Tumor Fraction:	0.01891		female
+Ploidy:	1.825		female
+Subclone Fraction:			female
+EE88242	0.01101	1.674	female
+EE88242			female
+Gender:	female		female
+Tumor Fraction:	0.01101		female
+Ploidy:	1.674		female
+Subclone Fraction:			female
+EE88243	0.002222	1.176	male
+EE88243			male
+Gender:	male		male
+Tumor Fraction:	0.002222		male
+Ploidy:	1.176		male
+Subclone Fraction:			male
+EE88244	0	1.217	male
+EE88244			male
+Gender:	male		male
+Tumor Fraction:	0		male
+Ploidy:	1.217		male
+Subclone Fraction:			male
+EE88245	0.00495	1.354	male
+EE88245			male
+Gender:	male		male
+Tumor Fraction:	0.00495		male
+Ploidy:	1.354		male
+Subclone Fraction:			male
+EE88246	0.002608	1.554	male
+EE88246			male
+Gender:	male		male
+Tumor Fraction:	0.002608		male
+Ploidy:	1.554		male
+Subclone Fraction:			male
+EE88247	0.06508	2.149	male
+EE88247			male
+Gender:	male		male
+Tumor Fraction:	0.06508		male
+Ploidy:	2.149		male
+Subclone Fraction:			male
+EE88248	0.005927	1.491	female
+EE88248			female
+Gender:	female		female
+Tumor Fraction:	0.005927		female
+Ploidy:	1.491		female
+Subclone Fraction:			female
+EE88249	0.00736	1.815	female
+EE88249			female
+Gender:	female		female
+Tumor Fraction:	0.00736		female
+Ploidy:	1.815		female
+Subclone Fraction:			female
+EE88250	0.006293	1.563	female
+EE88250			female
+Gender:	female		female
+Tumor Fraction:	0.006293		female
+Ploidy:	1.563		female
+Subclone Fraction:			female
+EE88251	0.006839	1.462	female
+EE88251			female
+Gender:	female		female
+Tumor Fraction:	0.006839		female
+Ploidy:	1.462		female
+Subclone Fraction:			female
+EE88252	0.005647	1.748	male
+EE88252			male
+Gender:	male		male
+Tumor Fraction:	0.005647		male
+Ploidy:	1.748		male
+Subclone Fraction:			male
+EE88253	0.00536	1.837	male
+EE88253			male
+Gender:	male		male
+Tumor Fraction:	0.00536		male
+Ploidy:	1.837		male
+Subclone Fraction:			male
+EE88254	0.00333	1.542	male
+EE88254			male
+Gender:	male		male
+Tumor Fraction:	0.00333		male
+Ploidy:	1.542		male
+Subclone Fraction:			male
+EE88255	0.01181	2.059	male
+EE88255			male
+Gender:	male		male
+Tumor Fraction:	0.01181		male
+Ploidy:	2.059		male
+Subclone Fraction:			male
+EE88256	0.05034	2.228	male
+EE88256			male
+Gender:	male		male
+Tumor Fraction:	0.05034		male
+Ploidy:	2.228		male
+Subclone Fraction:			male
+EE88257	0.007703	1.624	male
+EE88257			male
+Gender:	male		male
+Tumor Fraction:	0.007703		male
+Ploidy:	1.624		male
+Subclone Fraction:			male
+EE88258	0.18	2.078	male
+EE88258			male
+Gender:	male		male
+Tumor Fraction:	0.18		male
+Ploidy:	2.078		male
+Subclone Fraction:			male
+EE88259	0.01051	1.63	female
+EE88259			female
+Gender:	female		female
+Tumor Fraction:	0.01051		female
+Ploidy:	1.63		female
+Subclone Fraction:			female
+EE88260	0.006867	1.782	female
+EE88260			female
+Gender:	female		female
+Tumor Fraction:	0.006867		female
+Ploidy:	1.782		female
+Subclone Fraction:			female
+EE88261	0.007553	1.666	female
+EE88261			female
+Gender:	female		female
+Tumor Fraction:	0.007553		female
+Ploidy:	1.666		female
+Subclone Fraction:			female
