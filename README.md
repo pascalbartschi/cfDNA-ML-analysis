@@ -1,11 +1,11 @@
-# Analysis of cf DNA data with Machine Learning tools
+# Semester project: Analysis of cell-free fDNA data with Machine Learning and Bioinformatics tools
 
 ### Introduction
 
 Liquid biopsy is an upcoming diagnostic and monitoring tool in cancer care. Whole genome cell-free DNA sequencing allows for the investigation of different features that inform about the presence, type and size of the tumor. Machine learning is increasingly used in the medical domain and can be employed to uncover insightful patterns in the data.
 
 ### About
-This repository contains the code for the analysis of cfDNA-data taken from [Lo et al. (2021)<sup></sup>](https://doi.org/10.1126/science.aaw3616) and findings of this project are summarised in [this poster](https://github.com/pascalbartschi/cfDNA-ML-analysis/blob/main/poster.pdf).
+This repository contains the code for the analysis of cfDNA data taken from [Lo et al. (2021)<sup>1</sup>](https://doi.org/10.1126/science.aaw3616). Results of this project were found by first analyzing cfDNA features such as fragment length, somatic CNAs and the nucleosome footprint in a Bioinformatics workflow to later use Machine Learning to predict tumour type from insights gained. [This poster](https://github.com/pascalbartschi/cfDNA-ML-analysis/blob/main/poster.pdf) summarizes the semester project.
 
 ### References
 1. Lo, Y. M. D. et al. Epigenetics, fragmentomics , and topology of cell free DNA in liquid biopsies. Science 372 , eaaw3616. (2021). https://doi.org/10.1126/science.aaw3616
