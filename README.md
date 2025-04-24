@@ -7,7 +7,7 @@ Liquid biopsy is an upcoming diagnostic and monitoring tool in cancer care. Whol
 ### About
 This repository contains the code for the analysis of cfDNA data taken from [Lo et al. (2021)<sup>1</sup>](https://doi.org/10.1126/science.aaw3616). Results of this project were found by first analyzing cfDNA features such as fragment length, somatic CNAs and the nucleosome footprint in a Bioinformatics workflow to later use Machine Learning to predict tumour type from insights gained. [This poster](https://github.com/pascalbartschi/cfDNA-ML-analysis/blob/main/poster.pdf) summarizes the semester project.
 
-[![Preview](poster.png)](poster.pdf)
+![Preview](poster.png)
 
 
 ### References
