@@ -7,6 +7,9 @@ Liquid biopsy is an upcoming diagnostic and monitoring tool in cancer care. Whol
 ### About
 This repository contains the code for the analysis of cfDNA data taken from [Lo et al. (2021)<sup>1</sup>](https://doi.org/10.1126/science.aaw3616). Results of this project were found by first analyzing cfDNA features such as fragment length, somatic CNAs and the nucleosome footprint in a Bioinformatics workflow to later use Machine Learning to predict tumour type from insights gained. [This poster](https://github.com/pascalbartschi/cfDNA-ML-analysis/blob/main/poster.pdf) summarizes the semester project.
 
+[![Preview](poster.png)](poster.pdf)
+
+
 ### References
 1. Lo, Y. M. D. et al. Epigenetics, fragmentomics , and topology of cell free DNA in liquid biopsies. Science 372 , eaaw3616. (2021). https://doi.org/10.1126/science.aaw3616
 2. Cristiano, S. et al. Genome wide cell free DNA fragmentation in patients with cancer. Nature 570 ,385 389 (2019). https://doi.org/10.1038/s41586 019 1272 6
